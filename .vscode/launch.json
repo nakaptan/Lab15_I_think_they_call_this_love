@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/natpakan_k./Desktop/COM PRO C++/Lab15_I_think_they_call_this_love",
+      "program": "/Users/natpakan_k./Desktop/COM PRO C++/Lab15_I_think_they_call_this_love/build/Debug/outDebug"
+    }
+  ]
+}
